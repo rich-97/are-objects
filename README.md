@@ -1,5 +1,8 @@
 # are-objects
 
+[![npm](https://img.shields.io/npm/v/are-objects.svg)](https://www.npmjs.com/package/are-objects)
+[![npm](https://img.shields.io/npm/dm/are-objects.svg)](https://www.npmjs.com/package/are-objects)
+
 Function for check if all values are objects.
 
 ## Installation
